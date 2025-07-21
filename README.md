@@ -17,7 +17,8 @@ This project documents a full deployment and configuration of **Azure File Sync*
 | 🔐 NSG Rules            | HTTPS (443) enabled for sync communication                    |
 | 📂 Storage Sync Agent  | Installed and configured on both servers                      |
 
-> Screenshots available in the [`/screenshots`](./screenshots) folder.
+> Screenshots available in the [`/screenshots`](https://github.com/nyashamahara/Azure-File-Sync-End-to-End-Deployment-Lab-/tree/main/screenshots) folder.
+
 
 ---
 
