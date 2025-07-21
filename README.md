@@ -61,5 +61,4 @@ graph TD
     D --> F[Server Endpoint: syncee D:\development]
 ```
 
-## 📁 Folder Structure
 
